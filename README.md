@@ -1,6 +1,6 @@
 # Creatief Programmeren
 
-Startproject om creatief programmeren m.b.v. vanilla JavaScript en het [p5.js](https://p5js.org/) framework.
+Startproject om creatief te programmeren m.b.v. vanilla JavaScript en het [p5.js](https://p5js.org/) framework.
 
 ## Links
 
